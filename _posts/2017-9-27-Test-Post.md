@@ -6,7 +6,7 @@ tags: ["raw"]
 
 ### Hello
 
-[test-image](https://i.imgur.com/LKDSXK2.jpg "graph")
+![test-image](https://i.imgur.com/LKDSXK2.jpg "graph")
 This is a test for the blog, perhaps we add more later?
 
 ### This part is important
