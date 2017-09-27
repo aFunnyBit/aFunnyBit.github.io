@@ -13,5 +13,14 @@ This is a test for the blog, perhaps we add more later?
 
 Why? Who knows
 
-#### SUB HEADING
+#### Here is a code snippet
+
+```c
+
+int main(void) 
+{
+  printf("This is just a test!");
+  return 0;
+}
+```
 
