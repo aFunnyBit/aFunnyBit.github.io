@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Make
+title: Makefiles: Tutorial
 tags: ["tutorial", "software"]
 ---
 
