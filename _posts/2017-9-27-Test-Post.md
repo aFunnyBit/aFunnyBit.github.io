@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Blog Post One
-tags: ["raw"]
+title: Example Post
+tags: ["example"]
 ---
 
 ## This isn't a title!
