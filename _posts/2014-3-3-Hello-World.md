@@ -1,11 +1,13 @@
 ---
 layout: post
 title: How to use Make
-tags: ["test"]
+tags: ["tutorial", "software"]
 ---
 
-# Make Structure
+### Make Structure
 
 ```
 target: prerequisites
 [tab] recipe (commands)
+```
+
