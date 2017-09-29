@@ -4,7 +4,7 @@ title: How to use Make
 tags: ["tutorial", "software"]
 ---
 
-### Make Structure
+## Make Structure
 
 ```
 target: prerequisites
