@@ -17,5 +17,5 @@ target: prerequisites
 
 * A `recipe` is an action that make carries out. A recipe may have more than one command, either on the same line or each on its own line. 
 
-Please note: ```you need to put a tab character at the beginning of every recipe line! This is an obscurity that catches the unwary. ```
+Please note: you need to put a tab character at the beginning of every recipe line! This is an obscurity that catches the unwary. 
 
