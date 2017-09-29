@@ -4,7 +4,7 @@ title: Makefiles Tutorial
 tags: ["tutorial", "software"]
 ---
 
-The makefile tells make how to compile and link a program.
+The makefile tells `make` how to compile and link a program.
 
 ## Make Structure
 
