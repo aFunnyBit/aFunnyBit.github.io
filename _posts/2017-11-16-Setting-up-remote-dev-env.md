@@ -18,6 +18,7 @@ Getting the appropriate packages:
 # yum install openssh openssh-server openssh-clients openssl-libs
 ```
 
+
 ### Configuration
 
 First things first, back up your sshd configuration file like so:
