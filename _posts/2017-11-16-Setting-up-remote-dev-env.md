@@ -10,3 +10,11 @@ In the post we are going to explain you in details – How to Configure and use 
 
 The login session is encrypted and very secure. In this blog post I would like to demonstrate how to congifigure a CentOS7 machine with OpenSSH and a good baseline toolchain for developing on.
 
+### Installation
+
+Getting the appropriate packages:
+
+```
+# yum install openssh openssh-server openssh-clients openssl-libs
+```
+
