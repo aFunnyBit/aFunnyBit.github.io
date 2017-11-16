@@ -3,7 +3,7 @@ layout: post
 title: Setting Up A Remote Development Environment
 tags: ["linux","networking"]
 ---
-
+![Hero_Image](https://tecadmin.net/wp-content/uploads/2014/01/ssh-large-image.gif "hero_image")
 
 In the post we are going to explain you in details – How to Configure and use OpenSSH on CentOS 7. Secure Shell or SSH is a protocol which allows users to connect to a remote system using a client-server architecture.
 
