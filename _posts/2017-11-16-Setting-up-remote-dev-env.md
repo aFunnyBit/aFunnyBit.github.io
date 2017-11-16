@@ -14,7 +14,7 @@ The login session is encrypted and very secure. In this blog post I would like t
 
 Getting the appropriate packages:
 
-```
+```bash
 # yum install openssh openssh-server openssh-clients openssl-libs
 ```
 
@@ -23,6 +23,6 @@ Getting the appropriate packages:
 
 First things first, back up your sshd configuration file like so:
 
-```
+```bash
 # cp /etc/ssh/sshd_config /etc/ssh/sshd_config.orig
 ```
