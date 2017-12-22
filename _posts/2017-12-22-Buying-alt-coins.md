@@ -18,11 +18,12 @@ tags: ["altcoins","Crypto","bitcoin"]
 
 
 ## About
-```
-Note: Kraken is a business that is wholly independent of Ripple. Ripple does not endorse Kraken, nor does Ripple make any representations or warranties with respect to Kraken’s services. It is advisable to always conduct your own due diligence before trusting your money to any third party.
 
-The following general instructions are provided by Ripple, solely for your reference. Please be aware that the tools and UI provided by Kraken, as described below, could potentially change and we cannot guarantee the accuracy or completeness of the description below.
-```
+
+_Note: Kraken is a business that is wholly independent of Ripple. Ripple does not endorse Kraken, nor does Ripple make any representations or warranties with respect to Kraken’s services. It is advisable to always conduct your own due diligence before trusting your money to any third party.
+
+The following general instructions are provided by Ripple, solely for your reference. Please be aware that the tools and UI provided by Kraken, as described below, could potentially change and we cannot guarantee the accuracy or completeness of the description below._
+
 
 # Process
 
@@ -39,4 +40,4 @@ or
 ## Frequently Asked Questions
 ### Fees
 
-Fees are calculated dynamically on Coinbase. Please review their support page at https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521
+Fees are calculated dynamically on Coinbase. Please review their support page at [https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521](https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521)
