@@ -23,7 +23,7 @@ In this tutorial I will be showing you how to purchase an alt-coin (in this case
 ## TLDR
 Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binance](https://www.binance.com/?ref=15119907). Convert ETH to Doge on Binance and...
 
-![hodl](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/hodl.jpg "hodl")
+![hodl](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/hodl.png "hodl")
 
 
 ## Process
