@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buying Alt Coins Through Coinbase
+title: Buying Alt Coins Using Coinbase
 tags: ["altcoins","Crypto","bitcoin"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["altcoins","Crypto","bitcoin"]
 
 
 ## About
-In this tutorial I will be showing you how to purchase an alt-coin (in this case [Doge](https://coinmarketcap.com/currencies/dogecoin/)) 
+In this tutorial I will be showing you how to purchase an alt-coin (in this case [Doge](https://coinmarketcap.com/currencies/dogecoin/)) by using coinbase, binance, and your credit card.
 
 ## TLDR
 Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binance](https://www.binance.com/?ref=15119907). Convert ETH to Doge on Binance and...
