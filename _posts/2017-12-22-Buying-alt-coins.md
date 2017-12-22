@@ -77,7 +77,7 @@ Within Coinbase:
 
 3. Click `Send`
 
-4. Paste the address from [Get Your Ethereum Deposit Address](#get-your-ethereum-deposit-address) (__WARNING__: Don't paste my address otherwise it gets sent to my wallet and I will consider it a donation.)
+4. Paste the address from [Get Your Ethereum Deposit Address From Binance](#get-your-ethereum-deposit-address-from-binance) (__WARNING__: Don't paste my address otherwise it gets sent to my wallet and I will consider it a donation.)
 
 5. Click `Continue`
 
