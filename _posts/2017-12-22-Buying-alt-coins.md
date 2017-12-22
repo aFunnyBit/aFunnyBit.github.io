@@ -38,3 +38,5 @@ tags: ["altcoins","Crypto","bitcoin"]
 ### Fees
 
 Fees are calculated dynamically on Coinbase. Please review their support page at [https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521](https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521)
+
+If you want to avoid coinbase fees you should use [gdax](https://www.gdax.com/trade) which is automatically created for you after creating a Coinbase account. 
