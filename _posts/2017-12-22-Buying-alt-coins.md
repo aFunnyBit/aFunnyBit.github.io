@@ -8,8 +8,8 @@ tags: ["altcoins","Crypto","bitcoin"]
 
 
 ## Table of Contents
-
 - [About](#about)
+- [TLDR](#tldr)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
 - [Process](#process)
@@ -18,8 +18,12 @@ tags: ["altcoins","Crypto","bitcoin"]
 
 
 ## About
+In this tutorial I will be showing you how to purchase an alt-coin (in this case [Doge](https://coinmarketcap.com/currencies/dogecoin/)) 
 
+## TLDR
+Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binance](https://www.binance.com/?ref=15119907). Convert ETH to Doge on Binance and...
 
+![hodl](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/hodl.jpg "hodl")
 
 
 ## Process
@@ -31,7 +35,7 @@ tags: ["altcoins","Crypto","bitcoin"]
 - [Create A Binance Account](https://www.binance.com/?ref=15119907)
 - A Credit Card 
 - __OR__
-- Bitcoin on Coinbase
+- ETH on Coinbase
 
 
 ## Frequently Asked Questions
