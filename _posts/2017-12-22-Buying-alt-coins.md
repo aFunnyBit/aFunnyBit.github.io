@@ -107,6 +107,7 @@ Within Binance you should now see your ETH updated balance
 5. Type the amount you want to buy and click `Buy XRP`
 
 
+![bought xrp](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/boughtxrp.gif)
 
 
 
