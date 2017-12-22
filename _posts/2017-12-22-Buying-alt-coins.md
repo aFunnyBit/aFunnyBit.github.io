@@ -84,13 +84,27 @@ Within Coinbase:
 
 6. Input you 2 Factor code __(Optional)__
 
+__NOTE:__ This process can take a couple of minutes (mine took 20 minutes) as it goes through confirmations.
+
 ![send ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/sendethtobinancefromcoinbase.gif)
 
-__NOTE:__ This process can take a couple of minutes (mine took 20 minutes) as it goes through confirmations.
+
 
 ### Buy XRP with ETH
 
-1. 
+Within Binance you should now see your ETH updated balance
+
+1. Click `Exchange` > `Basic`
+
+2. On the right hand side click `ETH` (this gives you access to the ETH markets)
+
+3. Within the Search bar type `XRP` click `XRP/ETH`
+
+4. Scroll to the bottom and look for the buy section
+
+5. Type the amount you want to buy and click `Buy XRP`
+
+
 
 
 
