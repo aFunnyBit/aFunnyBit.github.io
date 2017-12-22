@@ -20,12 +20,9 @@ tags: ["altcoins","Crypto","bitcoin"]
 ## About
 
 
-_Note: Kraken is a business that is wholly independent of Ripple. Ripple does not endorse Kraken, nor does Ripple make any representations or warranties with respect to Kraken’s services. It is advisable to always conduct your own due diligence before trusting your money to any third party.
-
-The following general instructions are provided by Ripple, solely for your reference. Please be aware that the tools and UI provided by Kraken, as described below, could potentially change and we cannot guarantee the accuracy or completeness of the description below._
 
 
-# Process
+## Process
 
 ## Getting Started
 ### Requirements
@@ -33,9 +30,7 @@ The following general instructions are provided by Ripple, solely for your refer
 - [Create A Coinbase Account](https://www.coinbase.com/signup)
 - [Create A Binance Account](https://www.binance.com/?ref=15119907)
 - A Credit Card 
-
-or
-
+- __OR__
 - Bitcoin on Coinbase already
 
 
