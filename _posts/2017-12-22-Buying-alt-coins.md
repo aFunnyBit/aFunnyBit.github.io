@@ -39,12 +39,23 @@ Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binan
 
 ## Process
 
+### Buy ETH
 
-First, log onto Binance and click `Funds` -> `Deposits Withdraws`
+1. Get a credit card and buy ETH :P
 
-Then search for ETH (see below) 
+### Get Your Ethereum Deposit Address
 
-![deposit ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/getdepositbinance.gif "eth deposit")
+1. Log onto Binance and click `Funds` -> `Deposits & Withdrawals`
+
+2. Then search for ETH in the search bar
+
+3. Click the `Deposit` button
+
+4. Click the `Copy Address` button
+
+![deposit ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/getdepositbinance.gif)
+
+### Send Coinbase ETH to Binance ETH address
 
 
 
