@@ -13,6 +13,10 @@ tags: ["altcoins","Crypto","bitcoin"]
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
 - [Process](#process)
+  - [Buy ETH on Coinbase](#buy-eth-on-coinbase)
+  - [Get Your Ethereum Deposit Address From Binance](#get-your-ethereum-deposit-address-from-binance)
+  - [Send Coinbase ETH to Binance ETH address](#requirements)
+  - [Buy XRP/Ripple with ETH](#requirements)
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Fees](#fees)
 
@@ -51,7 +55,7 @@ Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binan
 
 ![BUY ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/Coinbase-Check-Ethereum-Box.png)
 
-### Get Your Ethereum Deposit Address
+### Get Your Ethereum Deposit Address From Binance
 
 1. Log onto Binance and click `Funds` > `Deposits & Withdrawals`
 
@@ -65,14 +69,26 @@ Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binan
 
 ### Send Coinbase ETH to Binance ETH address
 
-With 
+Within Coinbase:
 
-### Buy Ripple with ETH
+1. Click `Accounts`
+
+2. Scroll down to `ETH Wallet`
+
+3. Click `Send`
+
+4. Paste the address from [Get Your Ethereum Deposit Address](#get-your-ethereum-deposit-address) (__WARNING__: Don't paste my address otherwise it gets sent to my wallet and I will consider it a donation.)
+
+5. Click `Continue`
+
+
+### Buy XRP/Ripple with ETH
 
 
 
 
 ## Frequently Asked Questions
+
 ### Fees
 
 Fees are calculated dynamically on Coinbase. Please review their support page at [https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521](https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521)
