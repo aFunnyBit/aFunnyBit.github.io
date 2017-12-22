@@ -16,4 +16,3 @@ LTC: `Lh4LHYSV7nMu5izWjMwjB6QUJHNi9brHLw`
 
 ## Contact me
 
-[sixpool@sixpoolrush.com](mailto:sixpool@sixpoolrush.com)
