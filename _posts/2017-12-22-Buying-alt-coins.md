@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Buying Alt Coins Through Coinbase
-tags: ["altcoins","Crypto"]
+tags: ["altcoins","Crypto","bitcoin"]
 ---
 
 ![Hero_Image](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/coinlogo.jpg "hero_image")
+
 
 ## Contents
 
