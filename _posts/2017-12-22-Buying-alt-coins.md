@@ -25,6 +25,8 @@ tags: ["altcoins","Crypto","bitcoin"]
 ## About
 In this tutorial I will be showing you how to purchase an alt-coin (in this case [XRP/RIPPLE](https://coinmarketcap.com/currencies/ripple/)) by using coinbase, binance, and your credit card.
 
+__Disclosure:__ The Binance links are my referal links
+
 ## TLDR
 Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binance](https://www.binance.com/?ref=15119907). Convert ETH to XRP on Binance and...
 
