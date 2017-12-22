@@ -7,7 +7,7 @@ tags: ["altcoins","Crypto","bitcoin"]
 ![Hero_Image](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/coinlogo.jpg "hero_image")
 
 
-## Contents
+## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting-started)
