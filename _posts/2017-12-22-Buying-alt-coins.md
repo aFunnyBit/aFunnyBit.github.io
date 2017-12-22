@@ -110,7 +110,7 @@ Within Binance you should now see your ETH updated balance
 ![bought xrp](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/boughtxrp.gif)
 
 
-
+All done, now you are a proud owner of XRP!
 
 ## Frequently Asked Questions
 
