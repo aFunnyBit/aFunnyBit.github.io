@@ -26,7 +26,6 @@ Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binan
 ![hodl](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/hodl.jpg "hodl")
 
 
-## Process
 
 ## Getting Started
 ### Requirements
@@ -36,6 +35,17 @@ Purchase ETH on [Coinbase](https://www.coinbase.com/signup). Send that to [Binan
 - A Credit Card 
 - __OR__
 - ETH on Coinbase
+
+
+## Process
+
+
+First, log onto Binance and click `Funds` -> `Deposits Withdraws`
+
+Then search for ETH (see below) 
+
+![deposit ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/getdepositbinance.gif "eth deposit")
+
 
 
 ## Frequently Asked Questions
