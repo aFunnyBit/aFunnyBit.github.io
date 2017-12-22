@@ -16,9 +16,10 @@ tags: ["altcoins","Crypto","bitcoin"]
   - [Buy ETH on Coinbase](#buy-eth-on-coinbase)
   - [Get Your Ethereum Deposit Address From Binance](#get-your-ethereum-deposit-address-from-binance)
   - [Send Coinbase ETH to Binance ETH address](#send-coinbase-eth-to-binance-eth-address)
-  - [Buy XRP/Ripple with ETH](#buy-xrp/ripple-with-eth)
+  - [Buy XRP with ETH](#buy-xrp-with-eth)
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Fees](#fees)
+  - [How Can I Donate To You](#how-can-i-donate-to-you)
 
 
 ## About
@@ -85,8 +86,11 @@ Within Coinbase:
 
 ![send ETH](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/sendethtobinancefromcoinbase.gif)
 
+__NOTE:__ This process can take a couple of minutes (mine took 20 minutes) as it goes through confirmations.
 
-### Buy XRP/Ripple with ETH
+### Buy XRP with ETH
+
+1. 
 
 
 
@@ -98,3 +102,18 @@ Within Coinbase:
 Fees are calculated dynamically on Coinbase. Please review their support page at [https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521](https://support.coinbase.com/customer/en/portal/articles/2109597-coinbase-pricing-fees-disclosures?b_id=13521)
 
 If you want to avoid coinbase fees you should use [gdax](https://www.gdax.com/trade) which is automatically created for you after creating a Coinbase account. 
+
+
+
+### How Can I Donate To You
+
+Cool!
+It will definitely help me pay for newborn diapers by donating to:
+
+BTC: `18akVRtGz4PnXArP7cVoqcXV5sT8Y3Avcv`
+
+ETH: `0x5A7F83db3281139fB382A4D1F4b51a9D007BF1e9`
+
+LTC: `Lh4LHYSV7nMu5izWjMwjB6QUJHNi9brHLw`
+
+
