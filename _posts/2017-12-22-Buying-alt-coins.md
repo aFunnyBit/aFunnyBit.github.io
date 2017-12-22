@@ -31,7 +31,7 @@ tags: ["altcoins","Crypto","bitcoin"]
 - [Create A Binance Account](https://www.binance.com/?ref=15119907)
 - A Credit Card 
 - __OR__
-- Bitcoin on Coinbase already
+- Bitcoin on Coinbase
 
 
 ## Frequently Asked Questions
