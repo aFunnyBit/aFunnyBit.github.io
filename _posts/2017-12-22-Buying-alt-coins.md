@@ -32,8 +32,10 @@ The following general instructions are provided by Ripple, solely for your refer
 
 - [Create A Coinbase Account](https://www.coinbase.com/signup)
 - [Create A Binance Account](https://www.binance.com/?ref=15119907)
-- A credit card 
+- A Credit Card 
+
 or
+
 - Bitcoin on Coinbase already
 
 
