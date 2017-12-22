@@ -5,3 +5,6 @@ tags: ["altcoins","Crypto"]
 ---
 
 ![Hero_Image](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/coinlogo.jpg "hero_image")
+
+
+![Hero_Image](https://github.com/aFunnyBit/aFunnyBit.github.io/raw/master/images/coinlogo.gif "hero_image")
