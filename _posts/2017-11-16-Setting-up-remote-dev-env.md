@@ -26,3 +26,4 @@ First things first, back up your sshd configuration file like so:
 ```bash
 # cp /etc/ssh/sshd_config /etc/ssh/sshd_config.orig
 ```
+got bored
